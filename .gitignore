@@ -5,6 +5,8 @@ __pycache__/
 
 .DS_Store
 20_newsgroups/*
+word2vec.model
+word2vec.wordvectors
 
 # C extensions
 *.so
